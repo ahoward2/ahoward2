@@ -1,15 +1,16 @@
-## HEY HUMANS, MY NAME IS AUSTIN ✌️
+<div style="text-align: center;">
 
-<span style="text-align: center;">
+<h2>HEY HUMANS, MY NAME IS AUSTIN ✌️</h2>
 
-<div>
+<span>
+
 <img href="https://www.linkedin.com/in/austin-howard-601a22168/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 <img href="https://twitter.com/a_howard8" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 
-</div>
-
 </span>
+
+</div>
 
 Web development is my passion. I've been writing code for ~7 years and most recently built some cool stuff for lowes.com professionally. In real life I enjoy running, playing soccer on the weekends, and listening to podcasts.
 
