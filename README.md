@@ -14,5 +14,3 @@
 </div>
 
 Web development is my passion. I've been writing code for ~7 years and most recently built some cool stuff for lowes.com professionally. In real life I enjoy running, playing soccer on the weekends, and listening to podcasts.
-
-<h3 align="center">👇 WHAT I'M WORKING ON (PINNED) 👇</h3>
