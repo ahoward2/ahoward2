@@ -1,6 +1,4 @@
-<h2 align="center">HEY HUMANS, MY NAME IS AUSTIN ✌️</h2>
-
-<h3 align="center">🤝 CONNECT WITH ME 🤝</h3>
+<h2 align="center">CONNECT WITH ME</h2>
 
 <div align="center">
 <span>
@@ -13,4 +11,4 @@
 </span>
 </div>
 
-Web development is my passion. I've been writing code for ~7 years and most recently built some cool stuff for lowes.com professionally. In real life I enjoy running, playing soccer on the weekends, and listening to podcasts.
+Web development is my passion. I've been writing code for ~7 years and most recently built some cool stuff for lowes.com and Ally bank. In real life I enjoy running, playing soccer on the weekends, and listening to podcasts.
