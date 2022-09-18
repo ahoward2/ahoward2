@@ -27,3 +27,7 @@
 ## Studies
 
 - `Computer Science @unca`
+
+## Pinned Gitlab Projects
+
+- [Lerna Turborepo Template](https://gitlab.com/ahoward21/test-turbo-monorepo/-/tree/main): Fully automated CI/CD workflow with Gitlab for a Trunk-based workflow and nightly builds.
