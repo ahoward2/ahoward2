@@ -13,7 +13,7 @@
 
 ```
 
-# My Projects
+## Apps
 
 - [hugi](https://www.hugi.app/)
 - [delightful engineering blog](https://www.delightfulengineering.com/)
