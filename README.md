@@ -13,6 +13,11 @@
 
 ```
 
+# My Projects
+
+- [hugi](https://www.hugi.app/)
+- [delightful engineering blog](https://www.delightfulengineering.com/)
+
 ## Connect
 
 - [Gitlab](https://gitlab.com/ahoward21)
